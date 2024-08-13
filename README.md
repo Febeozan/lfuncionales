@@ -31,5 +31,5 @@ Menor propensión a errores: Al evitar efectos secundarios, el código es más f
    Facilita la paralelización: La inmutabilidad y la ausencia de efectos secundarios hacen que sea más fácil ejecutar código en paralelo.
 
 ### 8. Desventajas
-    Curva de aprendizaje: La programación funcional puede ser difícil de aprender para quienes están acostumbrados a paradigmas imperativos.
-    Desempeño: En algunos casos, la inmutabilidad y la evaluación perezosa pueden afectar el rendimiento, aunque muchos lenguajes funcionales están optimizados para mitigar estos problemas.
+  Curva de aprendizaje: La programación funcional puede ser difícil de aprender para quienes están acostumbrados a paradigmas imperativos.
+  Desempeño: En algunos casos, la inmutabilidad y la evaluación perezosa pueden afectar el rendimiento, aunque muchos lenguajes funcionales están optimizados para mitigar estos problemas.
